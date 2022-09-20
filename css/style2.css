@@ -27,14 +27,14 @@ table {
 
 th {
   height: 2rem;
-  background: lightgray;
+  background: rgb(221, 221, 221);
   border: 1px solid white;
   text-align: left;
 }
 
 td {
   height: 2rem;
-  background: darkgray;
+  background: rgb(169, 169, 169);
   border: 1px solid black;
   text-align: center;
 }
